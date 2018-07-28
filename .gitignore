@@ -59,3 +59,10 @@ typings/
 
 # next.js build output
 .next
+
+# geth processing
+**/geth/
+data/geth/chaindata/LOG
+data/geth/chaindata/CURRENT
+data/geth/chaindata/MANIFEST-000000
+data/keystore/UTC--2018-07-28T07-14-03.179724723Z--066f8944dba86f30e2dc3546d31133fb2a709f4a
